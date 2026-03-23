@@ -1,0 +1,3 @@
+login admin: joao.silva, senha123
+login operador: maria.santos, maria456
+login consulta: carlos.mendes, carlos654

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/dao/ProdutoDAO.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/dao/Conexao.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/data/Categoria.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/data/NotaFiscal.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/data/Usuario.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/data/Produto.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/data/MovimentacaoEstoque.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/data/EstoqueTI.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/data/Fornecedor.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/view/TelaLogin.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/view/TelaDashboard.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/view/TelaMovimentacoes.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/view/TelaProdutos.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/view/TelaFornecedores.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/view/TelaUsuarios.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/view/TelaNotasFiscais.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/dao/MovimentacaoEstoqueDAO.java</file>
+            <file>file:/C:/Users/Caua0/Downloads/EstoqueTI/src/dao/NotaFiscalDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
